@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learnHub-react-web/static/css/main.3de4dae4.css",
+    "main.js": "/learnHub-react-web/static/js/main.1bb595f5.js",
+    "static/js/453.ec8f7cf1.chunk.js": "/learnHub-react-web/static/js/453.ec8f7cf1.chunk.js",
+    "static/media/tc.png": "/learnHub-react-web/static/media/tc.66e132f330fd312fe176.png",
+    "static/media/footer.png": "/learnHub-react-web/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/meta1.jpg": "/learnHub-react-web/static/media/meta1.ca25e8a6e171ddf614a9.jpg",
+    "static/media/sd.png": "/learnHub-react-web/static/media/sd.0897abc962b9843e2ae7.png",
+    "static/media/logo.jpg": "/learnHub-react-web/static/media/logo.4c960f20f15fda6dc908.jpg",
+    "static/media/dg.png": "/learnHub-react-web/static/media/dg.9624ed4cc0ac7f4e8024.png",
+    "static/media/ai.png": "/learnHub-react-web/static/media/ai.0b1f4f6f49e69c33509f.png",
+    "index.html": "/learnHub-react-web/index.html",
+    "main.3de4dae4.css.map": "/learnHub-react-web/static/css/main.3de4dae4.css.map",
+    "main.1bb595f5.js.map": "/learnHub-react-web/static/js/main.1bb595f5.js.map",
+    "453.ec8f7cf1.chunk.js.map": "/learnHub-react-web/static/js/453.ec8f7cf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3de4dae4.css",
+    "static/js/main.1bb595f5.js"
+  ]
+}
