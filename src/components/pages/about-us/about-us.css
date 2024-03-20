@@ -1,0 +1,57 @@
+.about-us-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    height: 30rem;
+}
+
+.personal-details{
+    flex:1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.5;
+  
+}
+
+.personal-descriptions{
+    flex: 1;
+    text-align: left;
+}
+
+.personal-details h2{
+    text-align:left;
+}
+
+.personal-descriptions p{
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+
+.personal-info{
+   width: 200px;
+   margin-bottom: 20px;
+}
+.my-name{
+    font-size: 26px;
+    margin-bottom: 6px;
+}
+.personal-role{
+    font-size: 18px;
+    color:#888;
+}
+
+.social-media{
+    font-size: 28px;
+    
+}
+
+.social-media-logo a{
+  margin-right: 10px;
+  column-gap: 2rem;
+ 
+}
+
+
